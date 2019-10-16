@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Identity",
+"productVersion": "0.1",
+"dataUrl": "YarnSpinner Attempt.data.unityweb",
+"wasmCodeUrl": "YarnSpinner Attempt.wasm.code.unityweb",
+"wasmFrameworkUrl": "YarnSpinner Attempt.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.9f1"
+}
