@@ -1,3 +1,9 @@
+#About the Game
+The game "Identity" is a text-based game with multiple endings based on the choices the player makes as they explore the game’s narrative about multiple conflicting identities. 
+
+# Background
+I am aiming to use the modeled world of my game to express the thoughts and struggles a person may encounter when dealing with their multi-identities. I want to highlight that conflicting identities can cause emotional and mental damage but show that the situations that can cause this to happen are normal everyday life situations. I also want to highlight that even though people struggle with multi-identities, it’s okay to have them as they encompass the person. I am seeking to create a discussion among my players. I want them to walk away with a new perspective/awareness about identity.
+
 ## Digital Mock-up
 <a href="https://ctran15.github.io/Identity/Digital%20Mock%20Ups/Initial%20Attempt/">Initial Mock-up<a> 
 
@@ -7,3 +13,11 @@
 This build showcases the game's ability to record specific choices the player makes. It also has a temporary "Start" screen and the very beginning of the game.
 
 <a href="https://ctran15.github.io/Identity/AlphaTest/">Alpha Build<a>
+  
+## Beta-Test
+This build incorporates more of the game's narrative along with temperary backgrounds for scenes.
+
+<a href="https://ctran15.github.io/Identity/BetaTest/">Beta Build<a>
+  
+
+As of November 2019, I am currently working on this project for my capstone.
