@@ -1,4 +1,4 @@
-#About the Game
+# About the Game
 The game "Identity" is a text-based game with multiple endings based on the choices the player makes as they explore the game’s narrative about multiple conflicting identities. 
 
 # Background
