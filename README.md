@@ -17,8 +17,8 @@ This build showcases the game's ability to record specific choices the player ma
 ## Beta-Test
 This build incorporates more of the game's narrative along with temperary backgrounds for scenes.
 
-<a href="https://ctran15.github.io/Identity/BetaTest/">Beta Build<a>
-<a href="https://ctran15.github.io/Identity/BetaTest19.11.17v2/">Beta Build Version 2<a>
+<a href="https://ctran15.github.io/Identity/BetaTest/">Beta Build<a> \n
+<a href="https://ctran15.github.io/Identity/BetaTest19.11.17v2/">Beta Build Version 2<a> \n
 <a href="https://ctran15.github.io/Identity/BetaTest19.11.21v3/">Beta Build Version 3<a>
   
   
