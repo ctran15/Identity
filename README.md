@@ -26,3 +26,4 @@ These builds incorporates more of the game's narrative along with temperary back
   
 
 As of December 2019, I am currently working on this project for my capstone at the University of Washington Bothell
+<img src="Images/Final%20Poster2.png" width="200">
